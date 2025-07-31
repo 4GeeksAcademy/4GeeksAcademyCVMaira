@@ -1,0 +1,81 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Maira
+  last_name: Arias
+  motto: Aprendiendo a programar desde cero
+  focus: Desarrollo y aprendizaje constante
+  summary: >
+    Estoy iniciando mi carrera en el mundo del desarrollo web y la
+    programación.
+
+    Me apasiona resolver problemas, aprender nuevas tecnologías y construir proyectos desde cero.
+
+    Actualmente estoy enfocada en adquirir una base sólida en lenguajes como HTML, CSS, JavaScript y Python.
+
+
+    Busco oportunidades para aplicar lo que voy aprendiendo en proyectos reales y seguir creciendo como profesional del software.
+  avatar: https://randomuser.me/api/portraits/women/24.jpg
+  email: maira@ejemplo.com
+  phone: 123 456 7890
+  website: https://miportafolio.com
+  linkedin: mairaarias
+  github: 23-Hermes
+  twitter: maira_dev
+  stack-overflow: null
+  languages:
+    - idiom: Español
+      level: Nativo
+    - idiom: Inglés
+      level: Medio
+  interests:
+    - item: Lectura
+    - item: Diseño digital
+    - item: Aprendizaje autodidacta
+education:
+  - degree: Curso de Desarrollo Web Full Stack
+    university: 4Geeks Academy
+    university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    time: 2025 - Presente
+    details: >
+      Curso intensivo enfocado en desarrollo web utilizando tecnologías como
+      HTML, CSS,
+
+      JavaScript, Python, React y bases de datos. Incluye proyectos prácticos, trabajo en equipo y
+
+      metodología de desarrollo ágil.
+
+        - HTML, CSS, JavaScript
+        - Python y Flask
+        - Git, GitHub y control de versiones
+experiences:
+  - role: Estudiante de programación
+    time: 2025 - Presente
+    company: Proyectos personales y formación online
+    company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    details: >
+      Actualmente me encuentro aprendiendo los fundamentos del desarrollo
+      web, realizando
+
+      proyectos propios para practicar lo aprendido. Estoy construyendo mi portafolio
+
+      paso a paso con aplicaciones web simples y diseños responsivos.
+
+        - Desarrollo de landing pages con HTML y CSS
+        - Primeros pasos con JavaScript y DOM
+        - Uso básico de Git y GitHub para control de versiones
+skills:
+  toolset:
+    - name: HTML5 & CSS3
+      level: 60%
+    - name: JavaScript (básico)
+      level: 40%
+    - name: Git & GitHub
+      level: 50%
+    - name: Python (introductorio)
+      level: 30%
+    - name: Responsive Design
+      level: 40%
+    - name: Comunicación y trabajo en equipo
+      level: 80%
